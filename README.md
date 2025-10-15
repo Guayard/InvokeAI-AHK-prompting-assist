@@ -14,7 +14,9 @@ https://apps.microsoft.com/detail/9plqfdg8hh9d?hl=en-US&gl=US
 ---
 
 This script performs operations to speed up prompting in InvokeAI by applying a syntax methods described in invoke documentation:
+
 https://support.invoke.ai/support/solutions/articles/151000096723-advanced-prompting-syntax
+
 https://support.invoke.ai/support/solutions/articles/151000158854-dynamic-prompting
 
 ---
