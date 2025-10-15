@@ -2,12 +2,13 @@
 This a .ahk (Autohotkey) script for improving InvokeAI prompting expierience. 
 
 ---
+
 # Prerequisites:
 
-You need AutoHotkey tool for running the script. Get it by link below:
+You need AutoHotkey tool for running the script. Get it by link:
 https://www.autohotkey.com/
 
-or at MS Store
+or at MS Store:
 https://apps.microsoft.com/detail/9plqfdg8hh9d?hl=en-US&gl=US
 
 ---
@@ -16,10 +17,9 @@ This script performs operations to speed up prompting in InvokeAI by applying a 
 https://support.invoke.ai/support/solutions/articles/151000096723-advanced-prompting-syntax
 https://support.invoke.ai/support/solutions/articles/151000158854-dynamic-prompting
 
-
 ---
 
-Features:
+### Features:
 1. Add weight to (selection)+-.
 Increase weight hotkey: alt +
 Decrease weight hotkey: alt -
